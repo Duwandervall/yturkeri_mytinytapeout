@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The main output is outputb it lights down right corner if the input combination is correct
 
 ## How to test
 
-Explain how to use your project
+Try different combinations if it is correct outputb lights together with the line on oppositing site.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Your hand (and I find numpad useful.)
